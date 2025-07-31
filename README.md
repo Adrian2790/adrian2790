@@ -1,3 +1,10 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sofian+Adrian-Ciprian....;Nice+to+meet+you!&center=true&size=20">
+  </a>
+</h1>
+
+
 👋 Hi, I'm Sofian Adrian-Ciprian
 
 🔧 I enjoy building intelligent systems that combine data, control, and learning. I'm especially interested in:
