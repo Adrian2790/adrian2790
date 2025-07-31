@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-
 👋 Hi, I'm Sofian Adrian-Ciprian
 
 🔧 I enjoy building intelligent systems that combine data, control, and learning. I'm especially interested in:
